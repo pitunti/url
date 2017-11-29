@@ -13,7 +13,7 @@
 
 </item>
 
- 	
+ <item>	
 <title>Por Generos</title>
 <link>$doregex[makelist1]</link>
 <regex>
