@@ -1,8 +1,17 @@
 <item>
- 	<title>TV</title>
+ 	<title></title>
  	<link>null</link>
  	<externallink>https://raw.githubusercontent.com/pitunti/url/master/index.m3u</externallink>
  </item>
+
+
+ <item>
+<title>TV2</title>
+<link>dd</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/claro.m3u</externallink>
+<epg>http://app.iptvultimate.com/api/lista_epg</epg>
+
+</item>
 
 <item>
  	<title>Peliculas</title>
