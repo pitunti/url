@@ -1,6 +1,23 @@
 <item>
-	
-	<title>Entrar</title>
-	<link>null</link>
-	<externallink>http://tv.pitunti.xyz/index.xml</externallink>
-</item>
+ 	<title>TV</title>
+ 	<link>null</link>
+ 	<externallink>https://raw.githubusercontent.com/pitunti/url/master/index.m3u</externallink>
+ </item>
+
+<item>
+ 	<title>Peliculas</title>
+ 	<link>null</link>
+ 	<externallink>http://tv.pitunti.xyz/q/data/xml/bassbox.xml</externallink>
+ </item>
+
+<item>
+ 	<title>Las aventuras del Capitan Calzoncillos</title>
+ 	<urlsolve>https://streamango.com/embed/nqmnntldndmqoccb</urlsolve>
+ 	<thumbnail>http://storage.yaske.ro/image/external/c237cf8b606fb1144928c6bc0766fb93011367b5@237x355.jpg</thumbnail>
+ </item>
+
+
+
+
+
+ 
