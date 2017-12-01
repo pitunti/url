@@ -1,14 +1,8 @@
-<item>
- 	<title>TV</title>
- 	<link>null</link>
- 	<externallink>http://158.69.127.19:8000/get.php?username=calamarp&amp;assword=p29dLf6AKa&amp;type=m3u&amp;output=rtmp</externallink>
- </item>
-
 
  <item>
 <title>TV2</title>
 <link>dd</link>
-<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/claro.m3u</externallink>
+<externallink>http://158.69.127.19:8000/get.php?username=calamar&password=p29dLf6AKa&type=m3u&output=rtmp</externallink>
 <epg>http://app.iptvultimate.com/api/lista_epg</epg>
 
 </item>
